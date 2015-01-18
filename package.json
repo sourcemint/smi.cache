@@ -1,6 +1,6 @@
 {
   "name": "smi.cache",
-  "version": "0.3.0",
+  "version": "0.3.1",
   "pm": "npm",
   "publish": true,
   "main": "./lib/cache.js",
